@@ -38,6 +38,5 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### What I learned
 
-In this challenge I get a lot of new lessons. starting from css position, to css animation. I think this challenge can help us to know more about css.
+In this challenge I got a lot of new lessons. starting from css position, to css animation. I think this challenge can help us to know more about css.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
