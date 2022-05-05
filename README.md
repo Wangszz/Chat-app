@@ -21,7 +21,6 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here]
 - Live Site URL: [https://wangszz-chat-app.netlify.app/]
 
 ## My process
