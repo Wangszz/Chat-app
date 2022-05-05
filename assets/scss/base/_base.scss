@@ -1,0 +1,15 @@
+@use '../abstracts/' as *;
+
+/* BASE STYLING */
+
+main {
+
+    @include grid(grid, null, null, null, null, null);
+    max-width: 1440px;
+    margin: auto;
+    font-family: $font;
+
+    @include responsive(large) {
+        grid-template-columns: repeat(2, 1fr);
+     }
+}
